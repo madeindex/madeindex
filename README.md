@@ -1,0 +1,3 @@
+- Hello, this is @madeindex
+- 🌱 We are focusing on environmental topics & report on them
+- 📫 How to reach us: https://madeindex.org
