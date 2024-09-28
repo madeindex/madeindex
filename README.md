@@ -1,3 +1,3 @@
 - Hello, this is @madeindex
-- 🌱 We are focusing on environmental topics & report on them
+- 🌱 We are focusing on environmental topics & reporting on them
 - 📫 You can reach us at our [website](https://madeindex.org)
